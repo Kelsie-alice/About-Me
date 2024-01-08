@@ -1,7 +1,6 @@
 - 👋 Hi, I’m alice
-- 👀 I’m interested in getting help on my project
-- 🌱 I’m currently learning ICT
-- 💞️ I’m looking to collaborate on my project on a salon reservation system
+- 🌱 A front end web developer
+- 💞️ I’m looking to collaborate with UI/UX developers
 - 📫 How to reach me alicendungu800@gmail.com
 
 <!---
