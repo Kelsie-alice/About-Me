@@ -1,6 +1,6 @@
-- 👋 Hi, I’m alice
-- 🌱 A front end web developer
-- 💞️ Also looking to collaborate with fellow UI/UX developers
+- 👋 Hi, I’m Alice
+- 🌱 A web developer
+- 💞️ Also looking to collaborate with fellow developers
 - 📫 How to reach me alicendungu800@gmail.com
 
 <!---
